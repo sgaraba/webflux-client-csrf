@@ -1,0 +1,1 @@
+Spring webflux client CSRF
